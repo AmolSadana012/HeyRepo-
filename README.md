@@ -18,10 +18,10 @@ I am currently focusing on enhancing my expertise in **Data Structures & Algorit
 - **[MyFlix](https://github.com/AmolSadana012/MyFlix)**  
   A Netflix-like movie platform with a smart search system and personalized recommendations, built using HTML, CSS, JavaScript, and Flask.  
 
-- **[House Price Prediction](https://github.com/AmolSadana012/house-price-prediction)**  
+- **[House Price Prediction](https://github.com/AmolSadana012/house_price_prediction)**  
   Machine learning model to predict house prices based on location and demographics, deployed with a Flask web application.  
 
-- **[Solar Panel Simulation](https://github.com/AmolSadana012/solar-panel-sim)**  
+- **[Solar Panel Simulation](https://github.com/AmolSadana012/solar_energy_simulation)**  
   Simulation of solar energy generation and battery charging using SimPy, enabling analysis of renewable energy efficiency.  
 
 - **[MyPDF Editor](https://github.com/AmolSadana012/MyPdf-Editor)**  
